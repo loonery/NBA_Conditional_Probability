@@ -19,5 +19,6 @@ The project involved the following steps:
 Repository structure:
  - The data processing code lives in the /src directory
  - The final project presentation materials (including conditional probability calculations) live in the /project_output directory
+ - The play-by-play data files (retrieved from kaggle) are zipped and acessible for download as nba_pbp_data.zip
  
 Please see the final presentation for more information about the project outcomes :).
